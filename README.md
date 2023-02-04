@@ -5,6 +5,8 @@
     输入：.raw格式的三维CT图像
 
 ![image.png](README_img/3D_model.png)
+![image.png](README_img/task.jpg)
+
 
     输出：array格式的距离
     
